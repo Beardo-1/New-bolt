@@ -1,0 +1,42 @@
+{
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "properties": "Properties",
+    "auctions": "Auctions",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Log In",
+    "register": "Register",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "home": {
+    "hero": {
+      "title": "Find Your Dream Property in Saudi Arabia",
+      "subtitle": "Discover premium properties and investment opportunities with Al Fauzan Real Estate",
+      "searchPlaceholder": "Search by location, property type, or keyword"
+    }
+  },
+  "property": {
+    "type": {
+      "apartment": "Apartment",
+      "villa": "Villa",
+      "land": "Land",
+      "commercial": "Commercial",
+      "office": "Office"
+    },
+    "status": {
+      "forSale": "For Sale",
+      "forRent": "For Rent",
+      "sold": "Sold",
+      "rented": "Rented"
+    },
+    "details": {
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "area": "Area",
+      "location": "Location"
+    }
+  }
+}
